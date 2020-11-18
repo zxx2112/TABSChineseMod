@@ -1,1 +1,4 @@
-# TABSChineseMod
+将压缩包中所有文件解压到游戏目录就可以了
+
+汉化 By Shengyu
+B站:生鱼生鱼呀
